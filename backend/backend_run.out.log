@@ -1,0 +1,5 @@
+INFO:     127.0.0.1:14220 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7214 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7215 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7216 - "GET /api/ai-settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35583 - "GET /health HTTP/1.1" 200 OK

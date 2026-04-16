@@ -1,0 +1,7 @@
+{
+  "task_keywords": ["send","share","check","review","prepare","update","call","follow up","follow-up","do this","finish","submit","confirm","reply","schedule","kr do","kar do","krna","karna","bhej do","bhej dena","send kr do","check kr lo","check kr lena","call karna","update karna","dekh lena","confirm kr do","yaad dila dena"],
+  "followup_keywords": ["follow up","follow-up","remind","reminder","ping","check back","circle back","kal remind","yaad dila dena","dobara poochna","phir check karna","baad mein check karna"],
+  "decision_keywords": ["final","approved","decided","confirmed","done","freeze this","go with","yeh final hai","final ha","approve kar do","approve ho gaya","done hai"],
+  "question_keywords": ["?","can you","should we","is this","kia","kya","kab","kitna","kis time","ho gaya?"],
+  "deadline_keywords": ["today","tomorrow","tonight","monday","tuesday","wednesday","thursday","friday","saturday","sunday","by eod","by noon","kal","aaj","aj","kal tak","aaj tak","monday tak","friday tak"]
+}

@@ -1,0 +1,18 @@
+{
+  "manual_examples": [
+    {
+      "channel": "manual",
+      "contact_name": "Acme Client",
+      "contact_id": "923001234567",
+      "message_text": "Please send revised proposal kal tak and confirm final budget.",
+      "timestamp": "2026-04-09T11:00:00"
+    },
+    {
+      "channel": "manual",
+      "contact_name": "Matt",
+      "contact_id": "client-matt",
+      "message_text": "Website copy final ha. But homepage CTA check kr lena before 6pm.",
+      "timestamp": "2026-04-09T11:05:00"
+    }
+  ]
+}
