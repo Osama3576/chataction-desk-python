@@ -1,11 +1,23 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
+
+# Virtual environment
+.venv/
+
+# Environment files
+.env
+
+# Database
 *.sqlite3
 *.db
-.env
-.venv/
+
+# Build files
 dist/
 build/
 *.zip
-.idea
+
+# IDE
+.idea/
+.vscode/
